@@ -341,7 +341,7 @@ echo "[SYSTEM] Mission status: ACTIVE"
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=gabrielwsouza11-design&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=gabrielwilsondev&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
 
 </div>
 
