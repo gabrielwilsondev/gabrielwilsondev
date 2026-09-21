@@ -331,9 +331,9 @@ echo "[SYSTEM] Mission status: ACTIVE"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielwsouza11-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielwilsondev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwsouza11-design&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwilsondev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9"/>
 
 </div>
 
@@ -351,7 +351,7 @@ echo "[SYSTEM] Mission status: ACTIVE"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielwsouza11-design&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielwilsondev&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -361,7 +361,7 @@ echo "[SYSTEM] Mission status: ACTIVE"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielwsouza11-design&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gabrielwilsondev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
 
 </div>
 
@@ -371,7 +371,7 @@ echo "[SYSTEM] Mission status: ACTIVE"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gabrielwsouza11-design/gabrielwsouza11-design/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/gabrielwilsondev/gabrielwilsondev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
